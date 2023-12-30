@@ -1,11 +1,9 @@
-Brand color in json format
+Brand colors in json format
 
 ```json
-
 [
   {
     "colorList": [
-      "#0099e5",
       "#0099e5",
       "#ff4c4c",
       "#34bf49"
@@ -14,14 +12,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00a98f",
       "#00a98f"
     ],
     "name": "About Me"
   },
   {
     "colorList": [
-      "#000000",
       "#000000",
       "#be0027",
       "#cf8d2e",
@@ -36,7 +32,6 @@ Brand color in json format
   {
     "colorList": [
       "#ff0000",
-      "#ff0000",
       "#fbb034",
       "#ffdd00",
       "#c1d82f",
@@ -49,21 +44,18 @@ Brand color in json format
   {
     "colorList": [
       "#0abf53",
-      "#0abf53",
       "#00112c"
     ],
     "name": "Adyen"
   },
   {
     "colorList": [
-      "#279b37",
       "#279b37"
     ],
     "name": "Adzuna"
   },
   {
     "colorList": [
-      "#008374",
       "#008374",
       "#89ba16",
       "#fefefe"
@@ -72,7 +64,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#d20962",
       "#d20962",
       "#f47721",
       "#7ac143",
@@ -84,7 +75,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#037ef3",
       "#037ef3",
       "#f85a40",
       "#00c16e",
@@ -100,21 +90,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ffd900",
       "#ffd900"
     ],
     "name": "Aim"
   },
   {
     "colorList": [
-      "#fd5c63",
       "#fd5c63"
     ],
     "name": "Airbnb"
   },
   {
     "colorList": [
-      "#74d2e7",
       "#74d2e7",
       "#48a9c5",
       "#0085ad",
@@ -137,14 +124,12 @@ Brand color in json format
   {
     "colorList": [
       "#0099cc",
-      "#0099cc",
       "#ff9933"
     ],
     "name": "Akamai"
   },
   {
     "colorList": [
-      "#0079c1",
       "#0079c1",
       "#49176d",
       "#00a0af",
@@ -154,7 +139,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#050f2c",
       "#050f2c",
       "#003666",
       "#00aeff",
@@ -171,14 +155,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff6a00",
       "#ff6a00"
     ],
     "name": "Alibaba"
   },
   {
     "colorList": [
-      "#0c3866",
       "#0c3866",
       "#49c0b6",
       "#222",
@@ -190,14 +172,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ed1c24",
       "#ed1c24"
     ],
     "name": "Alphabet"
   },
   {
     "colorList": [
-      "#ff9900",
       "#ff9900",
       "#146eb4"
     ],
@@ -206,14 +186,12 @@ Brand color in json format
   {
     "colorList": [
       "#002663",
-      "#002663",
       "#4d4f53"
     ],
     "name": "American Express"
   },
   {
     "colorList": [
-      "#ed1b2e",
       "#ed1b2e",
       "#6d6e70",
       "#d7d7d8",
@@ -235,7 +213,6 @@ Brand color in json format
   {
     "colorList": [
       "#1c79c0",
-      "#1c79c0",
       "#0dd3ff",
       "#0389ff"
     ],
@@ -243,21 +220,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#a4c639",
       "#a4c639"
     ],
     "name": "Android"
   },
   {
     "colorList": [
-      "#7fbb00",
       "#7fbb00"
     ],
     "name": "Angies List"
   },
   {
     "colorList": [
-      "#b52e31",
       "#b52e31",
       "#000000"
     ],
@@ -266,7 +240,6 @@ Brand color in json format
   {
     "colorList": [
       "#136ad5",
-      "#136ad5",
       "#fb8a2e"
     ],
     "name": "Answers"
@@ -274,21 +247,18 @@ Brand color in json format
   {
     "colorList": [
       "#ff0b00",
-      "#ff0b00",
       "#00c4ff"
     ],
     "name": "Aol"
   },
   {
     "colorList": [
-      "#ea1d5d",
       "#ea1d5d"
     ],
     "name": "Aparat"
   },
   {
     "colorList": [
-      "#1793d1",
       "#1793d1",
       "#333333"
     ],
@@ -297,14 +267,12 @@ Brand color in json format
   {
     "colorList": [
       "#990033",
-      "#990033",
       "#ffb310"
     ],
     "name": "Arizona State University Asu"
   },
   {
     "colorList": [
-      "#004d73",
       "#004d73",
       "#00334e",
       "#007fdb",
@@ -319,7 +287,6 @@ Brand color in json format
   {
     "colorList": [
       "#004d73",
-      "#004d73",
       "#00334e",
       "#007fbd",
       "#dbebfa"
@@ -329,14 +296,12 @@ Brand color in json format
   {
     "colorList": [
       "#ff4e00",
-      "#ff4e00",
       "#01cd74"
     ],
     "name": "Ars Technica"
   },
   {
     "colorList": [
-      "#3be8b0",
       "#3be8b0",
       "#1aafd0",
       "#6a67ce",
@@ -347,28 +312,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#db3552",
       "#db3552"
     ],
     "name": "Askfm"
   },
   {
     "colorList": [
-      "#ff322e",
       "#ff322e"
     ],
     "name": "Associated Press"
   },
   {
     "colorList": [
-      "#00a8e0",
       "#00a8e0"
     ],
     "name": "Att"
   },
   {
     "colorList": [
-      "#000000",
       "#000000",
       "#a71930",
       "#a5acaf"
@@ -378,21 +339,18 @@ Brand color in json format
   {
     "colorList": [
       "#013ca6",
-      "#013ca6",
       "#a5a9ab"
     ],
     "name": "Atlantic Coast Conference Acc"
   },
   {
     "colorList": [
-      "#003366",
       "#003366"
     ],
     "name": "Atlassian"
   },
   {
     "colorList": [
-      "#0066a1",
       "#0066a1",
       "#231f20",
       "#bfbfbf",
@@ -407,7 +365,6 @@ Brand color in json format
   {
     "colorList": [
       "#ffffff",
-      "#ffffff",
       "#000000",
       "#f50537"
     ],
@@ -415,7 +372,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#16214d",
       "#16214d",
       "#44c7f4",
       "#eb5424",
@@ -426,7 +382,6 @@ Brand color in json format
   {
     "colorList": [
       "#ff7800",
-      "#ff7800",
       "#2d364c",
       "#6534ac"
     ],
@@ -434,7 +389,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#d40000",
       "#d40000"
     ],
     "name": "Avira"
@@ -442,14 +396,12 @@ Brand color in json format
   {
     "colorList": [
       "#de0f17",
-      "#de0f17",
       "#2529d8"
     ],
     "name": "Baidu"
   },
   {
     "colorList": [
-      "#629aa9",
       "#629aa9"
     ],
     "name": "Bandcamp"
@@ -457,21 +409,18 @@ Brand color in json format
   {
     "colorList": [
       "#00aeef",
-      "#00aeef",
       "#00395d"
     ],
     "name": "Barclays"
   },
   {
     "colorList": [
-      "#2a5934",
       "#2a5934"
     ],
     "name": "Barnes Noble"
   },
   {
     "colorList": [
-      "#b3dcff",
       "#b3dcff",
       "#5ecc62",
       "#00ad45"
@@ -480,28 +429,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e01f3d",
       "#e01f3d"
     ],
     "name": "Beats By Dre"
   },
   {
     "colorList": [
-      "#e04646",
       "#e04646"
     ],
     "name": "Bebo"
   },
   {
     "colorList": [
-      "#1769ff",
       "#1769ff"
     ],
     "name": "Behance"
   },
   {
     "colorList": [
-      "#003b64",
       "#003b64",
       "#fff200"
     ],
@@ -510,14 +455,12 @@ Brand color in json format
   {
     "colorList": [
       "#a0ac48",
-      "#a0ac48",
       "#70b29c"
     ],
     "name": "Big Cartel"
   },
   {
     "colorList": [
-      "#ffb900",
       "#ffb900",
       "#505050",
       "#a3a3a3"
@@ -526,7 +469,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#205081",
       "#205081"
     ],
     "name": "Bitbucket"
@@ -534,14 +476,12 @@ Brand color in json format
   {
     "colorList": [
       "#ee6123",
-      "#ee6123",
       "#61b3de"
     ],
     "name": "Bitly"
   },
   {
     "colorList": [
-      "#005387",
       "#005387",
       "#8cb811",
       "#fdb813",
@@ -556,7 +496,6 @@ Brand color in json format
   {
     "colorList": [
       "#123962",
-      "#123962",
       "#2754ba",
       "#00aee6",
       "#799eb2",
@@ -566,21 +505,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f57d00",
       "#f57d00"
     ],
     "name": "Blogger"
   },
   {
     "colorList": [
-      "#0033a1",
       "#0033a1"
     ],
     "name": "Boeing"
   },
   {
     "colorList": [
-      "#09347a",
       "#09347a",
       "#007dc3",
       "#0169a4",
@@ -594,14 +530,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#8996a0",
       "#8996a0"
     ],
     "name": "Bombardier"
   },
   {
     "colorList": [
-      "#003580",
       "#003580",
       "#009fe3",
       "#feba02",
@@ -612,14 +546,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#2b80ff",
       "#2b80ff"
     ],
     "name": "Booqable"
   },
   {
     "colorList": [
-      "#ffcc2f",
       "#ffcc2f",
       "#ef5734",
       "#00acee",
@@ -631,7 +563,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0061d5",
       "#0061d5"
     ],
     "name": "Box"
@@ -639,14 +570,12 @@ Brand color in json format
   {
     "colorList": [
       "#ce1126",
-      "#ce1126",
       "#003f87"
     ],
     "name": "Boy Scouts Of America"
   },
   {
     "colorList": [
-      "#075aaa",
       "#075aaa",
       "#eb2226",
       "#01295c",
@@ -659,14 +588,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#c90f23",
       "#c90f23"
     ],
     "name": "Brt"
   },
   {
     "colorList": [
-      "#d52685",
       "#d52685",
       "#553a99",
       "#6cbc35",
@@ -677,7 +604,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#168eea",
       "#168eea",
       "#ee4f4f",
       "#fff9ea",
@@ -692,14 +618,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00d1b2",
       "#00d1b2"
     ],
     "name": "Bulma"
   },
   {
     "colorList": [
-      "#ec1c24",
       "#ec1c24",
       "#fdbd10",
       "#0066b2",
@@ -709,28 +633,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ee3322",
       "#ee3322"
     ],
     "name": "Buzzfeed"
   },
   {
     "colorList": [
-      "#00aaff",
       "#00aaff"
     ],
     "name": "Bynder"
   },
   {
     "colorList": [
-      "#472f92",
       "#472f92"
     ],
     "name": "Cadbury"
   },
   {
     "colorList": [
-      "#bc0024",
       "#bc0024",
       "#000000"
     ],
@@ -739,7 +659,6 @@ Brand color in json format
   {
     "colorList": [
       "#00c4cc",
-      "#00c4cc",
       "#6a3be4"
     ],
     "name": "Canva"
@@ -747,21 +666,18 @@ Brand color in json format
   {
     "colorList": [
       "#004977",
-      "#004977",
       "#d03027"
     ],
     "name": "Capital One"
   },
   {
     "colorList": [
-      "#613854",
       "#613854"
     ],
     "name": "Carbonmade"
   },
   {
     "colorList": [
-      "#00387b",
       "#00387b",
       "#bb1e10",
       "#f67828",
@@ -771,7 +687,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#388ed1",
       "#388ed1",
       "#d74e26",
       "#006837",
@@ -783,7 +698,6 @@ Brand color in json format
   {
     "colorList": [
       "#00aeef",
-      "#00aeef",
       "#ed008c",
       "#fff000",
       "#000000"
@@ -793,7 +707,6 @@ Brand color in json format
   {
     "colorList": [
       "#84754e",
-      "#84754e",
       "#a6192e",
       "#decba5",
       "#000000"
@@ -802,7 +715,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ec2c22",
       "#ec2c22"
     ],
     "name": "Change Org"
@@ -815,7 +727,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#2e1f54",
       "#52057f",
       "#bf033b",
       "#f00a36",
@@ -837,7 +748,6 @@ Brand color in json format
   {
     "colorList": [
       "#ffc907",
-      "#ffc907",
       "#2e9df7",
       "#231f20"
     ],
@@ -845,21 +755,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff7243",
       "#ff7243"
     ],
     "name": "Cheddar"
   },
   {
     "colorList": [
-      "#60afdc",
       "#60afdc"
     ],
     "name": "Clas Ohlson"
   },
   {
     "colorList": [
-      "#f66733",
       "#f66733",
       "#522d80",
       "#d4c99e",
@@ -878,7 +785,6 @@ Brand color in json format
   {
     "colorList": [
       "#213e97",
-      "#213e97",
       "#ffac25",
       "#d0002c",
       "#ff4816",
@@ -888,7 +794,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f38020",
       "#f38020",
       "#faae40",
       "#404041"
@@ -946,7 +851,6 @@ Brand color in json format
   {
     "colorList": [
       "#cc0000",
-      "#cc0000",
       "#000000",
       "#282828",
       "#464646"
@@ -955,14 +859,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ed1c16",
       "#ed1c16"
     ],
     "name": "Coca Cola"
   },
   {
     "colorList": [
-      "#616f67",
       "#616f67",
       "#c68143"
     ],
@@ -971,14 +873,12 @@ Brand color in json format
   {
     "colorList": [
       "#f65a5b",
-      "#f65a5b",
       "#204056"
     ],
     "name": "Codecademy"
   },
   {
     "colorList": [
-      "#0ebeff",
       "#0ebeff",
       "#47cf73",
       "#ae63e4",
@@ -991,7 +891,6 @@ Brand color in json format
   {
     "colorList": [
       "#d2ea32",
-      "#d2ea32",
       "#016773"
     ],
     "name": "Connexxion"
@@ -999,14 +898,12 @@ Brand color in json format
   {
     "colorList": [
       "#439fd3",
-      "#439fd3",
       "#f6b128"
     ],
     "name": "Constant Contact"
   },
   {
     "colorList": [
-      "#ffa500",
       "#ffa500",
       "#00a5dc",
       "#004eaf",
@@ -1024,7 +921,6 @@ Brand color in json format
   {
     "colorList": [
       "#689550",
-      "#689550",
       "#85c446",
       "#c0de9e",
       "#b9dca4"
@@ -1033,14 +929,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#da5a47",
       "#da5a47"
     ],
     "name": "Craft Cms"
   },
   {
     "colorList": [
-      "#b62b6e",
       "#b62b6e",
       "#9628c6",
       "#4374b7",
@@ -1055,7 +949,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#8ba753",
       "#8ba753"
     ],
     "name": "Creative Market"
@@ -1063,14 +956,12 @@ Brand color in json format
   {
     "colorList": [
       "#30660f",
-      "#30660f",
       "#b8cc1c"
     ],
     "name": "Crowdin"
   },
   {
     "colorList": [
-      "#830051",
       "#830051",
       "#cf0072",
       "#d9e506",
@@ -1082,21 +973,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#2292a7",
       "#2292a7"
     ],
     "name": "Crunchbase"
   },
   {
     "colorList": [
-      "#005696",
       "#005696"
     ],
     "name": "Culvers"
   },
   {
     "colorList": [
-      "#1d1d1b",
       "#1d1d1b",
       "#ae9a64",
       "#e42313",
@@ -1106,7 +994,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000"
     ],
     "name": "Cvs"
@@ -1114,14 +1001,12 @@ Brand color in json format
   {
     "colorList": [
       "#00aaff",
-      "#00aaff",
       "#00d2f3"
     ],
     "name": "Dailymotion"
   },
   {
     "colorList": [
-      "#263f6a",
       "#263f6a",
       "#182b45",
       "#6b0f24",
@@ -1132,7 +1017,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#774aa4",
       "#774aa4"
     ],
     "name": "Datadog"
@@ -1140,21 +1024,18 @@ Brand color in json format
   {
     "colorList": [
       "#095280",
-      "#095280",
       "#00a1f1"
     ],
     "name": "Dealhack"
   },
   {
     "colorList": [
-      "#a80030",
       "#a80030"
     ],
     "name": "Debian"
   },
   {
     "colorList": [
-      "#ff0000",
       "#ff0000",
       "#ffed00",
       "#ff0092",
@@ -1170,7 +1051,6 @@ Brand color in json format
   {
     "colorList": [
       "#334858",
-      "#334858",
       "#cd595a",
       "#94938f",
       "#a3a7a6",
@@ -1183,7 +1063,6 @@ Brand color in json format
   {
     "colorList": [
       "#3399ff",
-      "#3399ff",
       "#222222",
       "#eeeeee"
     ],
@@ -1191,14 +1070,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00c1b2",
       "#00c1b2"
     ],
     "name": "Deliveroo"
   },
   {
     "colorList": [
-      "#0085c3",
       "#0085c3",
       "#7ab800",
       "#f2af00",
@@ -1217,7 +1094,6 @@ Brand color in json format
   {
     "colorList": [
       "#c8102e",
-      "#c8102e",
       "#862633",
       "#003a70"
     ],
@@ -1226,14 +1102,12 @@ Brand color in json format
   {
     "colorList": [
       "#f99104",
-      "#f99104",
       "#00b7c9"
     ],
     "name": "Dental Plans"
   },
   {
     "colorList": [
-      "#2d72d9",
       "#2d72d9"
     ],
     "name": "Designer News"
@@ -1241,21 +1115,18 @@ Brand color in json format
   {
     "colorList": [
       "#e64b50",
-      "#e64b50",
       "#dbc65d"
     ],
     "name": "Designmoo"
   },
   {
     "colorList": [
-      "#ff0000",
       "#ff0000"
     ],
     "name": "Deutsche Bahn"
   },
   {
     "colorList": [
-      "#0a0a0a",
       "#0a0a0a",
       "#ffffff"
     ],
@@ -1264,7 +1135,6 @@ Brand color in json format
   {
     "colorList": [
       "#05cc47",
-      "#05cc47",
       "#4dc47d",
       "#181a1b"
     ],
@@ -1272,21 +1142,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff0000",
       "#ff0000"
     ],
     "name": "Devour"
   },
   {
     "colorList": [
-      "#febd17",
       "#febd17"
     ],
     "name": "Dewalt"
   },
   {
     "colorList": [
-      "#ba0c2f",
       "#ba0c2f",
       "#ffcd00",
       "#c9c9c9"
@@ -1295,7 +1162,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#007dc3",
       "#007dc3",
       "#003f69",
       "#954010",
@@ -1308,21 +1174,18 @@ Brand color in json format
   {
     "colorList": [
       "#005be2",
-      "#005be2",
       "#000000"
     ],
     "name": "Digg"
   },
   {
     "colorList": [
-      "#008bcf",
       "#008bcf"
     ],
     "name": "Digital Ocean"
   },
   {
     "colorList": [
-      "#fdb94e",
       "#fdb94e",
       "#f9a852",
       "#f69653",
@@ -1339,7 +1202,6 @@ Brand color in json format
   {
     "colorList": [
       "#f05d21",
-      "#f05d21",
       "#2c5770",
       "#0f723a",
       "#c7c8ca",
@@ -1350,7 +1212,6 @@ Brand color in json format
   {
     "colorList": [
       "#00a6d6",
-      "#00a6d6",
       "#00629b",
       "#003865"
     ],
@@ -1359,7 +1220,6 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#333333",
       "#f5df2e"
     ],
@@ -1367,7 +1227,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#5865f2",
       "#5865f2",
       "#57f287",
       "#fee75c",
@@ -1382,14 +1241,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ec1944",
       "#ec1944"
     ],
     "name": "Dish Network"
   },
   {
     "colorList": [
-      "#0af167",
       "#0af167",
       "#ee70a6",
       "#520099",
@@ -1401,21 +1258,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#2e9fff",
       "#2e9fff"
     ],
     "name": "Disqus"
   },
   {
     "colorList": [
-      "#092e20",
       "#092e20"
     ],
     "name": "Django"
   },
   {
     "colorList": [
-      "#0db7ed",
       "#0db7ed",
       "#384d54"
     ],
@@ -1424,14 +1278,12 @@ Brand color in json format
   {
     "colorList": [
       "#0b648f",
-      "#0b648f",
       "#e21737"
     ],
     "name": "Dominos"
   },
   {
     "colorList": [
-      "#e80033",
       "#e80033",
       "#fdbb30",
       "#ed8b00",
@@ -1445,7 +1297,6 @@ Brand color in json format
   {
     "colorList": [
       "#444444",
-      "#444444",
       "#ea4c89",
       "#8aba56",
       "#ff8833",
@@ -1457,7 +1308,6 @@ Brand color in json format
   {
     "colorList": [
       "#007ee5",
-      "#007ee5",
       "#7b8994",
       "#47525d",
       "#3d464d"
@@ -1466,14 +1316,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#5654a4",
       "#5654a4"
     ],
     "name": "Droplr"
   },
   {
     "colorList": [
-      "#0077c0",
       "#0077c0",
       "#81ceff",
       "#00598e"
@@ -1482,7 +1330,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e37151",
       "#e37151",
       "#de5833",
       "#ffffff",
@@ -1496,7 +1343,6 @@ Brand color in json format
   {
     "colorList": [
       "#001a57",
-      "#001a57",
       "#003366"
     ],
     "name": "Duke University"
@@ -1504,14 +1350,12 @@ Brand color in json format
   {
     "colorList": [
       "#2da9d7",
-      "#2da9d7",
       "#212a3e"
     ],
     "name": "Dunked"
   },
   {
     "colorList": [
-      "#7ac70c",
       "#7ac70c",
       "#8ee000",
       "#faa918",
@@ -1533,7 +1377,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff7404",
       "#ff7404"
     ],
     "name": "Dwolla"
@@ -1541,21 +1384,18 @@ Brand color in json format
   {
     "colorList": [
       "#6633cc",
-      "#6633cc",
       "#99cc00"
     ],
     "name": "Etrade"
   },
   {
     "colorList": [
-      "#6d1d7c",
       "#6d1d7c"
     ],
     "name": "E4"
   },
   {
     "colorList": [
-      "#ff6600",
       "#ff6600",
       "#000000",
       "#58595b"
@@ -1564,7 +1404,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e53238",
       "#e53238",
       "#0064d2",
       "#f5af02",
@@ -1575,35 +1414,30 @@ Brand color in json format
   {
     "colorList": [
       "#131137",
-      "#131137",
       "#918978"
     ],
     "name": "El Al"
   },
   {
     "colorList": [
-      "#0d69af",
       "#0d69af"
     ],
     "name": "Elance"
   },
   {
     "colorList": [
-      "#000000",
       "#000000"
     ],
     "name": "Ello"
   },
   {
     "colorList": [
-      "#f23819",
       "#f23819"
     ],
     "name": "Ember"
   },
   {
     "colorList": [
-      "#314855",
       "#314855",
       "#5cc3e8",
       "#ffdb00",
@@ -1614,28 +1448,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#87aa14",
       "#87aa14"
     ],
     "name": "Endomundo"
   },
   {
     "colorList": [
-      "#40b3ff",
       "#40b3ff"
     ],
     "name": "Engadget"
   },
   {
     "colorList": [
-      "#82b541",
       "#82b541"
     ],
     "name": "Envato"
   },
   {
     "colorList": [
-      "#39c2d7",
       "#39c2d7",
       "#a3c644",
       "#464547",
@@ -1647,7 +1477,6 @@ Brand color in json format
   {
     "colorList": [
       "#ff2052",
-      "#ff2052",
       "#e6e6e6",
       "#404040",
       "#01b5dd",
@@ -1657,14 +1486,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#002561",
       "#002561"
     ],
     "name": "Ericsson"
   },
   {
     "colorList": [
-      "#0d9ddb",
       "#0d9ddb",
       "#48b8e7",
       "#efecea",
@@ -1674,14 +1501,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff0033",
       "#ff0033"
     ],
     "name": "Espn"
   },
   {
     "colorList": [
-      "#6a9c84",
       "#6a9c84",
       "#790f59",
       "#373b9c",
@@ -1693,14 +1518,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#d5641c",
       "#d5641c"
     ],
     "name": "Etsy"
   },
   {
     "colorList": [
-      "#33cc99",
       "#33cc99",
       "#4ba6f5",
       "#fdca30",
@@ -1711,14 +1534,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff8000",
       "#ff8000"
     ],
     "name": "Eventbrite"
   },
   {
     "colorList": [
-      "#2dbe60",
       "#2dbe60",
       "#7b868a",
       "#2facb2",
@@ -1735,14 +1556,12 @@ Brand color in json format
   {
     "colorList": [
       "#203143",
-      "#203143",
       "#da9a39"
     ],
     "name": "Execucar"
   },
   {
     "colorList": [
-      "#00a0e9",
       "#00a0e9"
     ],
     "name": "Eztalks"
@@ -1750,21 +1569,18 @@ Brand color in json format
   {
     "colorList": [
       "#dd0017",
-      "#dd0017",
       "#000000"
     ],
     "name": "Fab Com"
   },
   {
     "colorList": [
-      "#1877f2",
       "#1877f2"
     ],
     "name": "Facebook"
   },
   {
     "colorList": [
-      "#6caddf",
       "#6caddf",
       "#b06010",
       "#004990",
@@ -1775,14 +1591,12 @@ Brand color in json format
   {
     "colorList": [
       "#a6a685",
-      "#a6a685",
       "#000000"
     ],
     "name": "Fairmont"
   },
   {
     "colorList": [
-      "#fa5c4f",
       "#fa5c4f",
       "#333333"
     ],
@@ -1791,7 +1605,6 @@ Brand color in json format
   {
     "colorList": [
       "#3098dc",
-      "#3098dc",
       "#494e58"
     ],
     "name": "Fancy"
@@ -1799,35 +1612,30 @@ Brand color in json format
   {
     "colorList": [
       "#4d148c",
-      "#4d148c",
       "#ff6600"
     ],
     "name": "Fedex"
   },
   {
     "colorList": [
-      "#2bb24c",
       "#2bb24c"
     ],
     "name": "Feedly"
   },
   {
     "colorList": [
-      "#f9b949",
       "#f9b949"
     ],
     "name": "Fendi"
   },
   {
     "colorList": [
-      "#e32119",
       "#e32119"
     ],
     "name": "Ferrari"
   },
   {
     "colorList": [
-      "#96172e",
       "#96172e",
       "#6d2d41"
     ],
@@ -1836,14 +1644,12 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#d6182a"
     ],
     "name": "Film4"
   },
   {
     "colorList": [
-      "#e66000",
       "#e66000",
       "#ff9500",
       "#ffcb00",
@@ -1857,7 +1663,6 @@ Brand color in json format
   {
     "colorList": [
       "#ff8e00",
-      "#ff8e00",
       "#000000",
       "#955214",
       "#55601c",
@@ -1868,7 +1673,6 @@ Brand color in json format
   {
     "colorList": [
       "#4cc2c4",
-      "#4cc2c4",
       "#f54785",
       "#343434"
     ],
@@ -1876,7 +1680,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ed174f",
       "#ed174f",
       "#fbb040",
       "#efc402",
@@ -1886,14 +1689,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00b22d",
       "#00b22d"
     ],
     "name": "Fiverr"
   },
   {
     "colorList": [
-      "#ed713a",
       "#ed713a",
       "#000000"
     ],
@@ -1902,14 +1703,12 @@ Brand color in json format
   {
     "colorList": [
       "#f67c1a",
-      "#f67c1a",
       "#338d11"
     ],
     "name": "Flattr"
   },
   {
     "colorList": [
-      "#f10087",
       "#f10087",
       "#009ae7"
     ],
@@ -1918,28 +1717,24 @@ Brand color in json format
   {
     "colorList": [
       "#0063dc",
-      "#0063dc",
       "#ff0084"
     ],
     "name": "Flickr"
   },
   {
     "colorList": [
-      "#e12828",
       "#e12828"
     ],
     "name": "Flipboard"
   },
   {
     "colorList": [
-      "#2971b2",
       "#2971b2"
     ],
     "name": "Flixster"
   },
   {
     "colorList": [
-      "#3fa9f5",
       "#3fa9f5",
       "#989898",
       "#f8f8f8"
@@ -1948,7 +1743,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#4dc9f6",
       "#4dc9f6",
       "#f67019",
       "#f53794",
@@ -1959,35 +1753,30 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#228ae6",
       "#228ae6"
     ],
     "name": "Fontawesome"
   },
   {
     "colorList": [
-      "#1c396d",
       "#1c396d"
     ],
     "name": "Ford"
   },
   {
     "colorList": [
-      "#ee3440",
       "#ee3440"
     ],
     "name": "4ormat"
   },
   {
     "colorList": [
-      "#5b9a68",
       "#5b9a68"
     ],
     "name": "Forrst"
   },
   {
     "colorList": [
-      "#f94877",
       "#f94877",
       "#0732a2",
       "#2d5be3"
@@ -1996,7 +1785,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#006400",
       "#006400",
       "#ff9c2a",
       "#ff4025",
@@ -2007,7 +1795,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0f99d6",
       "#0f99d6"
     ],
     "name": "Friend2friend"
@@ -2015,28 +1802,24 @@ Brand color in json format
   {
     "colorList": [
       "#00457c",
-      "#00457c",
       "#e8d4a2"
     ],
     "name": "Gallaudet University"
   },
   {
     "colorList": [
-      "#009bff",
       "#009bff"
     ],
     "name": "Gannett"
   },
   {
     "colorList": [
-      "#007cc3",
       "#007cc3"
     ],
     "name": "Garmin"
   },
   {
     "colorList": [
-      "#484848",
       "#484848",
       "#002561",
       "#2f6f7e"
@@ -2046,7 +1829,6 @@ Brand color in json format
   {
     "colorList": [
       "#1b212b",
-      "#1b212b",
       "#1e72bd",
       "#efefef"
     ],
@@ -2054,7 +1836,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#4a742c",
       "#4a742c"
     ],
     "name": "Geocaching"
@@ -2062,14 +1843,12 @@ Brand color in json format
   {
     "colorList": [
       "#041e42",
-      "#041e42",
       "#a99260"
     ],
     "name": "Georgia Southern University"
   },
   {
     "colorList": [
-      "#212425",
       "#212425",
       "#718087",
       "#5ba4e5",
@@ -2081,7 +1860,6 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#436f8e",
       "#887d59",
       "#8f9696"
@@ -2090,14 +1868,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#d6156c",
       "#d6156c"
     ],
     "name": "Gimmebar"
   },
   {
     "colorList": [
-      "#4078c0",
       "#4078c0",
       "#6cc644",
       "#bd2c00",
@@ -2112,7 +1888,6 @@ Brand color in json format
   {
     "colorList": [
       "#fca326",
-      "#fca326",
       "#fc6d26",
       "#e24329",
       "#554488"
@@ -2121,7 +1896,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#46bc99",
       "#46bc99",
       "#f68d42",
       "#ed1965",
@@ -2133,14 +1907,12 @@ Brand color in json format
   {
     "colorList": [
       "#663300",
-      "#663300",
       "#339966"
     ],
     "name": "Gittip"
   },
   {
     "colorList": [
-      "#f36f21",
       "#f36f21",
       "#72635c",
       "#aca6a2",
@@ -2151,14 +1923,12 @@ Brand color in json format
   {
     "colorList": [
       "#7db701",
-      "#7db701",
       "#ff8a00"
     ],
     "name": "Godaddy"
   },
   {
     "colorList": [
-      "#a5c500",
       "#a5c500",
       "#810061",
       "#303600",
@@ -2174,7 +1944,6 @@ Brand color in json format
   {
     "colorList": [
       "#e80029",
-      "#e80029",
       "#40b4e5",
       "#7c868d"
     ],
@@ -2182,14 +1951,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#553b08",
       "#553b08"
     ],
     "name": "Goodreads"
   },
   {
     "colorList": [
-      "#4285f4",
       "#4285f4",
       "#34a853",
       "#fbbc05",
@@ -2199,28 +1966,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#fbbc05",
       "#fbbc05"
     ],
     "name": "Google Allo"
   },
   {
     "colorList": [
-      "#4285f4",
       "#4285f4"
     ],
     "name": "Google Duo"
   },
   {
     "colorList": [
-      "#dd4b39",
       "#dd4b39"
     ],
     "name": "Google Plus"
   },
   {
     "colorList": [
-      "#099d84",
       "#099d84",
       "#4d9db3",
       "#456acf",
@@ -2232,14 +1995,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#1e8cbe",
       "#1e8cbe"
     ],
     "name": "Gravatar"
   },
   {
     "colorList": [
-      "#e30061",
       "#e30061",
       "#d5df00",
       "#475258"
@@ -2249,7 +2010,6 @@ Brand color in json format
   {
     "colorList": [
       "#0b2d27",
-      "#0b2d27",
       "#000000",
       "#ffffff"
     ],
@@ -2257,14 +2017,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00b2a9",
       "#00b2a9"
     ],
     "name": "Greenhouse"
   },
   {
     "colorList": [
-      "#82b548",
       "#82b548"
     ],
     "name": "Groupon"
@@ -2272,14 +2030,12 @@ Brand color in json format
   {
     "colorList": [
       "#fba919",
-      "#fba919",
       "#463014"
     ],
     "name": "Grunt"
   },
   {
     "colorList": [
-      "#8f1010",
       "#8f1010",
       "#204030",
       "#a11826",
@@ -2291,7 +2047,6 @@ Brand color in json format
   {
     "colorList": [
       "#72ef36",
-      "#72ef36",
       "#3b3141",
       "#f0ece6"
     ],
@@ -2299,7 +2054,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0863b5",
       "#0863b5",
       "#fec600",
       "#f39100",
@@ -2313,28 +2067,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff4000",
       "#ff4000"
     ],
     "name": "Hacker News"
   },
   {
     "colorList": [
-      "#0f9d58",
       "#0f9d58"
     ],
     "name": "Hangouts"
   },
   {
     "colorList": [
-      "#0087b4",
       "#0087b4"
     ],
     "name": "Happn"
   },
   {
     "colorList": [
-      "#008200",
       "#008200",
       "#205527",
       "#ff2b00",
@@ -2344,14 +2094,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0093d0",
       "#0093d0"
     ],
     "name": "Hellowallet"
   },
   {
     "colorList": [
-      "#3197d6",
       "#3197d6",
       "#394956",
       "#d6dde3"
@@ -2361,7 +2109,6 @@ Brand color in json format
   {
     "colorList": [
       "#c9c3e6",
-      "#c9c3e6",
       "#6762a6"
     ],
     "name": "Heroku"
@@ -2369,21 +2116,18 @@ Brand color in json format
   {
     "colorList": [
       "#00b388",
-      "#00b388",
       "#425563"
     ],
     "name": "Hewlett Packard Enterprise"
   },
   {
     "colorList": [
-      "#fd9827",
       "#fd9827"
     ],
     "name": "Hi5"
   },
   {
     "colorList": [
-      "#a26eea",
       "#a26eea",
       "#f7afff",
       "#5d70ea",
@@ -2393,7 +2137,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f96302",
       "#f96302"
     ],
     "name": "Home Depot"
@@ -2401,14 +2144,12 @@ Brand color in json format
   {
     "colorList": [
       "#2a6ebb",
-      "#2a6ebb",
       "#ff8a00"
     ],
     "name": "Homeaway"
   },
   {
     "colorList": [
-      "#003265",
       "#003265",
       "#f7e8d5",
       "#ffbd0a",
@@ -2422,14 +2163,12 @@ Brand color in json format
   {
     "colorList": [
       "#7ac142",
-      "#7ac142",
       "#000000"
     ],
     "name": "Houzz"
   },
   {
     "colorList": [
-      "#0096d6",
       "#0096d6",
       "#d7410b"
     ],
@@ -2449,14 +2188,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e34f26",
       "#e34f26"
     ],
     "name": "Html5"
   },
   {
     "colorList": [
-      "#66aa33",
       "#66aa33",
       "#99cc33",
       "#41811e",
@@ -2468,14 +2205,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#cb272c",
       "#cb272c"
     ],
     "name": "Humble Bundle"
   },
   {
     "colorList": [
-      "#6d6e71",
       "#6d6e71",
       "#bf5b20",
       "#006e96",
@@ -2487,21 +2222,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#006699",
       "#006699"
     ],
     "name": "Ibm"
   },
   {
     "colorList": [
-      "#32c24d",
       "#32c24d"
     ],
     "name": "Icons8"
   },
   {
     "colorList": [
-      "#cc0066",
       "#cc0066",
       "#79afc1",
       "#000000"
@@ -2511,7 +2243,6 @@ Brand color in json format
   {
     "colorList": [
       "#789240",
-      "#789240",
       "#7d0100",
       "#8baaff"
     ],
@@ -2520,7 +2251,6 @@ Brand color in json format
   {
     "colorList": [
       "#33ccff",
-      "#33ccff",
       "#ff4400",
       "#000000"
     ],
@@ -2528,7 +2258,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#c6002b",
       "#c6002b"
     ],
     "name": "Iheartradio"
@@ -2536,21 +2265,18 @@ Brand color in json format
   {
     "colorList": [
       "#ffcc00",
-      "#ffcc00",
       "#003399"
     ],
     "name": "Ikea"
   },
   {
     "colorList": [
-      "#f5de50",
       "#f5de50"
     ],
     "name": "Imdb"
   },
   {
     "colorList": [
-      "#85bf25",
       "#85bf25"
     ],
     "name": "Imgur"
@@ -2558,14 +2284,12 @@ Brand color in json format
   {
     "colorList": [
       "#2164f4",
-      "#2164f4",
       "#ff6600"
     ],
     "name": "Indeed"
   },
   {
     "colorList": [
-      "#eb1478",
       "#eb1478"
     ],
     "name": "Indiegogo"
@@ -2573,21 +2297,18 @@ Brand color in json format
   {
     "colorList": [
       "#ff6200",
-      "#ff6200",
       "#000066"
     ],
     "name": "Ing"
   },
   {
     "colorList": [
-      "#60ab59",
       "#60ab59"
     ],
     "name": "Instacart"
   },
   {
     "colorList": [
-      "#405de6",
       "#405de6",
       "#5851db",
       "#833ab4",
@@ -2604,7 +2325,6 @@ Brand color in json format
   {
     "colorList": [
       "#0d1a2b",
-      "#0d1a2b",
       "#1565c0",
       "#1e88e5",
       "#bcced6",
@@ -2615,21 +2335,18 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#428bca"
     ],
     "name": "Instapaper"
   },
   {
     "colorList": [
-      "#0f7dc2",
       "#0f7dc2"
     ],
     "name": "Intel"
   },
   {
     "colorList": [
-      "#0c1c2c",
       "#0c1c2c",
       "#3a82e4",
       "#40b2a4",
@@ -2647,14 +2364,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#365ebf",
       "#365ebf"
     ],
     "name": "Intuit"
   },
   {
     "colorList": [
-      "#ff3366",
       "#ff3366",
       "#252b33",
       "#2f7bbd",
@@ -2668,7 +2383,6 @@ Brand color in json format
   {
     "colorList": [
       "#5fc9f8",
-      "#5fc9f8",
       "#fecb2e",
       "#fd9426",
       "#fc3158",
@@ -2681,21 +2395,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#1e1f56",
       "#1e1f56"
     ],
     "name": "Israel Railways"
   },
   {
     "colorList": [
-      "#f36d5d",
       "#f36d5d"
     ],
     "name": "Issuu"
   },
   {
     "colorList": [
-      "#fe423f",
       "#fe423f",
       "#02a388",
       "#0c0d0d",
@@ -2706,21 +2417,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f7df1e",
       "#f7df1e"
     ],
     "name": "Javascript"
   },
   {
     "colorList": [
-      "#000000",
       "#000000"
     ],
     "name": "Jawbone"
   },
   {
     "colorList": [
-      "#ff6600",
       "#ff6600"
     ],
     "name": "Jbl"
@@ -2728,14 +2436,12 @@ Brand color in json format
   {
     "colorList": [
       "#669c34",
-      "#669c34",
       "#72af3a"
     ],
     "name": "Jetpack"
   },
   {
     "colorList": [
-      "#f44321",
       "#f44321",
       "#5091cd",
       "#f9a541",
@@ -2745,14 +2451,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff6600",
       "#ff6600"
     ],
     "name": "Joyent"
   },
   {
     "colorList": [
-      "#0769ad",
       "#0769ad",
       "#7acef4"
     ],
@@ -2761,14 +2465,12 @@ Brand color in json format
   {
     "colorList": [
       "#006c54",
-      "#006c54",
       "#d52a1d"
     ],
     "name": "Kaspersky Lab"
   },
   {
     "colorList": [
-      "#00a9c0",
       "#00a9c0"
     ],
     "name": "Keeeb"
@@ -2776,21 +2478,18 @@ Brand color in json format
   {
     "colorList": [
       "#9cb443",
-      "#9cb443",
       "#242f3a"
     ],
     "name": "Khan Academy"
   },
   {
     "colorList": [
-      "#c21a30",
       "#c21a30"
     ],
     "name": "Kia"
   },
   {
     "colorList": [
-      "#2bde73",
       "#2bde73",
       "#0f2105"
     ],
@@ -2799,28 +2498,24 @@ Brand color in json format
   {
     "colorList": [
       "#82bc23",
-      "#82bc23",
       "#3db4e7"
     ],
     "name": "Kik"
   },
   {
     "colorList": [
-      "#d51007",
       "#d51007"
     ],
     "name": "Kippt"
   },
   {
     "colorList": [
-      "#d70021",
       "#d70021"
     ],
     "name": "Kitkat"
   },
   {
     "colorList": [
-      "#63a541",
       "#63a541",
       "#236133",
       "#26b6e8"
@@ -2829,21 +2524,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00b0df",
       "#00b0df"
     ],
     "name": "Kiwipay"
   },
   {
     "colorList": [
-      "#00a1e4",
       "#00a1e4"
     ],
     "name": "Klm"
   },
   {
     "colorList": [
-      "#000000",
       "#000000",
       "#03cce6",
       "#29c876",
@@ -2858,28 +2550,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ddb321",
       "#ddb321"
     ],
     "name": "Lamborghini"
   },
   {
     "colorList": [
-      "#f55247",
       "#f55247"
     ],
     "name": "Laravel"
   },
   {
     "colorList": [
-      "#d51007",
       "#d51007"
     ],
     "name": "Lastfm"
   },
   {
     "colorList": [
-      "#d32d27",
       "#d32d27",
       "#af0809",
       "#000000",
@@ -2894,7 +2582,6 @@ Brand color in json format
   {
     "colorList": [
       "#f6ec35",
-      "#f6ec35",
       "#d11013",
       "#000000"
     ],
@@ -2902,14 +2589,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00c300",
       "#00c300"
     ],
     "name": "Line"
   },
   {
     "colorList": [
-      "#0a66c2",
       "#0a66c2",
       "#83941f",
       "#e7a33e",
@@ -2932,7 +2617,6 @@ Brand color in json format
   {
     "colorList": [
       "#cf202e",
-      "#cf202e",
       "#232121",
       "#f78822",
       "#f6db35",
@@ -2944,7 +2628,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#d81f2a",
       "#d81f2a",
       "#ff9900",
       "#e0d86e",
@@ -2960,14 +2643,12 @@ Brand color in json format
   {
     "colorList": [
       "#006fbf",
-      "#006fbf",
       "#ff7b00"
     ],
     "name": "Localbitcoins Com"
   },
   {
     "colorList": [
-      "#008ecf",
       "#008ecf",
       "#09263c",
       "#020b13",
@@ -2979,14 +2660,12 @@ Brand color in json format
   {
     "colorList": [
       "#eb0028",
-      "#eb0028",
       "#00a0df"
     ],
     "name": "Lomo"
   },
   {
     "colorList": [
-      "#000099",
       "#000099",
       "#cc3333"
     ],
@@ -2995,21 +2674,18 @@ Brand color in json format
   {
     "colorList": [
       "#004990",
-      "#004990",
       "#15b6e5"
     ],
     "name": "Lowes"
   },
   {
     "colorList": [
-      "#576396",
       "#576396"
     ],
     "name": "Lumo"
   },
   {
     "colorList": [
-      "#ff00bf",
       "#ff00bf",
       "#352384",
       "#333447",
@@ -3019,7 +2695,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f46f25",
       "#f46f25"
     ],
     "name": "Magento"
@@ -3027,14 +2702,12 @@ Brand color in json format
   {
     "colorList": [
       "#168de2",
-      "#168de2",
       "#ffa930"
     ],
     "name": "Mail Ru"
   },
   {
     "colorList": [
-      "#239ab9",
       "#239ab9",
       "#52bad5",
       "#6dc5dc",
@@ -3046,14 +2719,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#34be5b",
       "#34be5b"
     ],
     "name": "Manjaro Linux"
   },
   {
     "colorList": [
-      "#3bb2d0",
       "#3bb2d0",
       "#3887be",
       "#8a8acb",
@@ -3073,7 +2744,6 @@ Brand color in json format
   {
     "colorList": [
       "#a31f34",
-      "#a31f34",
       "#8a8b8c",
       "#c2c0bf"
     ],
@@ -3081,7 +2751,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#004a77",
       "#004a77",
       "#00adee",
       "#ff8100",
@@ -3092,7 +2761,6 @@ Brand color in json format
   {
     "colorList": [
       "#cc0000",
-      "#cc0000",
       "#ff9900",
       "#000066"
     ],
@@ -3101,7 +2769,6 @@ Brand color in json format
   {
     "colorList": [
       "#bd0017",
-      "#bd0017",
       "#ffc836",
       "#264f36"
     ],
@@ -3109,21 +2776,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00ab6c",
       "#00ab6c"
     ],
     "name": "Medium"
   },
   {
     "colorList": [
-      "#e0393e",
       "#e0393e"
     ],
     "name": "Meetup"
   },
   {
     "colorList": [
-      "#0a4d8c",
       "#0a4d8c",
       "#dd1321"
     ],
@@ -3132,14 +2796,12 @@ Brand color in json format
   {
     "colorList": [
       "#ffe600",
-      "#ffe600",
       "#2d3277"
     ],
     "name": "Mercadolibre Com"
   },
   {
     "colorList": [
-      "#0084ff",
       "#0084ff"
     ],
     "name": "Messenger"
@@ -3147,14 +2809,12 @@ Brand color in json format
   {
     "colorList": [
       "#0082fb",
-      "#0082fb",
       "#0064e0"
     ],
     "name": "Meta"
   },
   {
     "colorList": [
-      "#18453b",
       "#18453b",
       "#000000",
       "#ffffff",
@@ -3167,7 +2827,6 @@ Brand color in json format
   {
     "colorList": [
       "#f65314",
-      "#f65314",
       "#7cbb00",
       "#00a1f1",
       "#ffbb00"
@@ -3176,21 +2835,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#783bd2",
       "#783bd2"
     ],
     "name": "Microsoft Band"
   },
   {
     "colorList": [
-      "#ea3e23",
       "#ea3e23"
     ],
     "name": "Microsoft Office"
   },
   {
     "colorList": [
-      "#0078d7",
       "#0078d7",
       "#eeeeee",
       "#737373",
@@ -3202,7 +2858,6 @@ Brand color in json format
   {
     "colorList": [
       "#9b4dca",
-      "#9b4dca",
       "#f4f5f6",
       "#606c76"
     ],
@@ -3211,7 +2866,6 @@ Brand color in json format
   {
     "colorList": [
       "#52aad8",
-      "#52aad8",
       "#273a4b",
       "#1d2d3b"
     ],
@@ -3219,7 +2873,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#a086d3",
       "#a086d3"
     ],
     "name": "Mixpanel"
@@ -3227,21 +2880,18 @@ Brand color in json format
   {
     "colorList": [
       "#000088",
-      "#000088",
       "#cc0000"
     ],
     "name": "Mlb"
   },
   {
     "colorList": [
-      "#ee1d23",
       "#ee1d23"
     ],
     "name": "Mobilink"
   },
   {
     "colorList": [
-      "#db1f29",
       "#db1f29",
       "#000000"
     ],
@@ -3250,21 +2900,18 @@ Brand color in json format
   {
     "colorList": [
       "#c6d6df",
-      "#c6d6df",
       "#ec4534"
     ],
     "name": "Mollie"
   },
   {
     "colorList": [
-      "#589636",
       "#589636"
     ],
     "name": "Mongodb"
   },
   {
     "colorList": [
-      "#ce1141",
       "#ce1141",
       "#eeb111",
       "#e87d1e",
@@ -3276,7 +2923,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#949483",
       "#949483",
       "#f47b7b",
       "#9f1f5c",
@@ -3299,14 +2945,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#5c92fa",
       "#5c92fa"
     ],
     "name": "Motorola"
   },
   {
     "colorList": [
-      "#c13832",
       "#c13832",
       "#d7d3c8",
       "#4d4e53"
@@ -3315,7 +2959,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff6050",
       "#ff6050",
       "#ff0e83",
       "#d54262",
@@ -3332,21 +2975,18 @@ Brand color in json format
   {
     "colorList": [
       "#1fadc5",
-      "#1fadc5",
       "#ff8000"
     ],
     "name": "Muut"
   },
   {
     "colorList": [
-      "#2e51a2",
       "#2e51a2"
     ],
     "name": "Myanimelist"
   },
   {
     "colorList": [
-      "#000000",
       "#000000"
     ],
     "name": "Myspace"
@@ -3354,14 +2994,12 @@ Brand color in json format
   {
     "colorList": [
       "#00758f",
-      "#00758f",
       "#f29111"
     ],
     "name": "Mysql"
   },
   {
     "colorList": [
-      "#2b697a",
       "#2b697a",
       "#000000",
       "#ffffff"
@@ -3371,7 +3009,6 @@ Brand color in json format
   {
     "colorList": [
       "#93dee8",
-      "#93dee8",
       "#5a2e14"
     ],
     "name": "Nanowrimo"
@@ -3379,14 +3016,12 @@ Brand color in json format
   {
     "colorList": [
       "#fc3d21",
-      "#fc3d21",
       "#0b3d91"
     ],
     "name": "Nasa"
   },
   {
     "colorList": [
-      "#ffd659",
       "#ffd659",
       "#e4002b",
       "#007ac2"
@@ -3396,14 +3031,12 @@ Brand color in json format
   {
     "colorList": [
       "#ffcc00",
-      "#ffcc00",
       "#000000"
     ],
     "name": "National Geographic"
   },
   {
     "colorList": [
-      "#0071bf",
       "#0071bf",
       "#000000"
     ],
@@ -3460,14 +3093,12 @@ Brand color in json format
   {
     "colorList": [
       "#cc0000",
-      "#cc0000",
       "#000000"
     ],
     "name": "Nc State University"
   },
   {
     "colorList": [
-      "#00afd8",
       "#00afd8",
       "#7b858e"
     ],
@@ -3476,7 +3107,6 @@ Brand color in json format
   {
     "colorList": [
       "#e50914",
-      "#e50914",
       "#221f1f",
       "#f5f5f1"
     ],
@@ -3484,14 +3114,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#39bd00",
       "#39bd00"
     ],
     "name": "Netvibes"
   },
   {
     "colorList": [
-      "#ce2724",
       "#ce2724",
       "#f3ec19",
       "#207c88",
@@ -3505,14 +3133,12 @@ Brand color in json format
   {
     "colorList": [
       "#cc3333",
-      "#cc3333",
       "#2a2a2a"
     ],
     "name": "New York Post"
   },
   {
     "colorList": [
-      "#fbb040",
       "#fbb040",
       "#44355b",
       "#31263e",
@@ -3524,7 +3150,6 @@ Brand color in json format
   {
     "colorList": [
       "#0077c8",
-      "#0077c8",
       "#ff8200",
       "#f0537a"
     ],
@@ -3532,14 +3157,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#19975d",
       "#19975d"
     ],
     "name": "Nextdoor"
   },
   {
     "colorList": [
-      "#013369",
       "#013369",
       "#d50a0a"
     ],
@@ -3548,7 +3171,6 @@ Brand color in json format
   {
     "colorList": [
       "#005eb8",
-      "#005eb8",
       "#ffffff"
     ],
     "name": "Nhs"
@@ -3556,14 +3178,12 @@ Brand color in json format
   {
     "colorList": [
       "#504847",
-      "#504847",
       "#27a770"
     ],
     "name": "Nike Football"
   },
   {
     "colorList": [
-      "#4bad31",
       "#4bad31",
       "#f5dc00",
       "#e95814",
@@ -3573,14 +3193,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#75af42",
       "#75af42"
     ],
     "name": "Ning"
   },
   {
     "colorList": [
-      "#a98c66",
       "#a98c66",
       "#12191c",
       "#6f7f8d",
@@ -3591,7 +3209,6 @@ Brand color in json format
   {
     "colorList": [
       "#e60012",
-      "#e60012",
       "#8c8c8c",
       "#ffffff"
     ],
@@ -3599,7 +3216,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#215732",
       "#215732",
       "#6cc24a",
       "#44883e",
@@ -3609,14 +3225,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#124191",
       "#124191"
     ],
     "name": "Nokia"
   },
   {
     "colorList": [
-      "#0390d8",
       "#0390d8"
     ],
     "name": "Norsan Media"
@@ -3624,14 +3238,12 @@ Brand color in json format
   {
     "colorList": [
       "#003466",
-      "#003466",
       "#557665"
     ],
     "name": "Northern Arizona University"
   },
   {
     "colorList": [
-      "#4e2a84",
       "#4e2a84",
       "#836eaa",
       "#401f68",
@@ -3647,7 +3259,6 @@ Brand color in json format
   {
     "colorList": [
       "#765438",
-      "#765438",
       "#a13323",
       "#e65124",
       "#ec7f22",
@@ -3658,14 +3269,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#cb3837",
       "#cb3837"
     ],
     "name": "Npm"
   },
   {
     "colorList": [
-      "#ffc61e",
       "#ffc61e",
       "#00337f",
       "#003082"
@@ -3674,21 +3283,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#003082",
       "#ffc917"
     ],
     "name": "Ns 2"
   },
   {
     "colorList": [
-      "#76b900",
       "#76b900"
     ],
     "name": "Nvidia"
   },
   {
     "colorList": [
-      "#51007a",
       "#51007a",
       "#dbe800",
       "#d0d3d4",
@@ -3699,28 +3305,24 @@ Brand color in json format
   {
     "colorList": [
       "#e2002a",
-      "#e2002a",
       "#6e6e6e"
     ],
     "name": "Obb"
   },
   {
     "colorList": [
-      "#ed812b",
       "#ed812b"
     ],
     "name": "Odnoklassniki"
   },
   {
     "colorList": [
-      "#008272",
       "#008272"
     ],
     "name": "Office Sway"
   },
   {
     "colorList": [
-      "#001f2d",
       "#001f2d",
       "#008fd4",
       "#696969",
@@ -3731,7 +3333,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#8d989a",
       "#8d989a",
       "#744da8",
       "#1fb3e0",
@@ -3745,7 +3346,6 @@ Brand color in json format
   {
     "colorList": [
       "#08107b",
-      "#08107b",
       "#dfb226",
       "#777777"
     ],
@@ -3753,14 +3353,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#eb0029",
       "#eb0029"
     ],
     "name": "Oneplus"
   },
   {
     "colorList": [
-      "#1b5faa",
       "#1b5faa",
       "#90cef1",
       "#ffc20e"
@@ -3769,7 +3367,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#eeaf00",
       "#eeaf00"
     ],
     "name": "Oovoo"
@@ -3777,14 +3374,12 @@ Brand color in json format
   {
     "colorList": [
       "#cc0f16",
-      "#cc0f16",
       "#9c9e9f"
     ],
     "name": "Opera"
   },
   {
     "colorList": [
-      "#ff0000",
       "#ff0000",
       "#000000",
       "#7f7f7f"
@@ -3794,21 +3389,18 @@ Brand color in json format
   {
     "colorList": [
       "#dc4405",
-      "#dc4405",
       "#000000"
     ],
     "name": "Oregon State University"
   },
   {
     "colorList": [
-      "#c7202c",
       "#c7202c"
     ],
     "name": "Overstock"
   },
   {
     "colorList": [
-      "#060606",
       "#060606",
       "#171717",
       "#cccccc",
@@ -3819,7 +3411,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#002147",
       "#002147",
       "#000000",
       "#666666"
@@ -3834,7 +3425,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#004b91",
       "#00274d",
       "#0076c0",
       "#000007",
@@ -3847,21 +3437,18 @@ Brand color in json format
   {
     "colorList": [
       "#0f58a8",
-      "#0f58a8",
       "#000000"
     ],
     "name": "Panasonic"
   },
   {
     "colorList": [
-      "#005483",
       "#005483"
     ],
     "name": "Pandora"
   },
   {
     "colorList": [
-      "#ee3423",
       "#ee3423"
     ],
     "name": "Path"
@@ -3869,21 +3456,18 @@ Brand color in json format
   {
     "colorList": [
       "#f96854",
-      "#f96854",
       "#052d49"
     ],
     "name": "Patreon"
   },
   {
     "colorList": [
-      "#f05000",
       "#f05000"
     ],
     "name": "Paymill"
   },
   {
     "colorList": [
-      "#22d0b8",
       "#22d0b8",
       "#34c950",
       "#8de86e"
@@ -3893,7 +3477,6 @@ Brand color in json format
   {
     "colorList": [
       "#003087",
-      "#003087",
       "#009cde",
       "#012169"
     ],
@@ -3901,7 +3484,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ed6b06",
       "#ed6b06",
       "#9d1348",
       "#008b5d",
@@ -3911,21 +3493,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff6900",
       "#ff6900"
     ],
     "name": "Penguin Books"
   },
   {
     "colorList": [
-      "#ee7200",
       "#ee7200"
     ],
     "name": "Peopleperhour Com"
   },
   {
     "colorList": [
-      "#e32934",
       "#e32934",
       "#004883"
     ],
@@ -3934,14 +3513,12 @@ Brand color in json format
   {
     "colorList": [
       "#3aa4c6",
-      "#3aa4c6",
       "#d75444"
     ],
     "name": "Periscope"
   },
   {
     "colorList": [
-      "#0093d0",
       "#0093d0",
       "#000000",
       "#616365",
@@ -3960,14 +3537,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0e5fd8",
       "#0e5fd8"
     ],
     "name": "Philips"
   },
   {
     "colorList": [
-      "#0ea0db",
       "#0ea0db",
       "#000000"
     ],
@@ -3976,7 +3551,6 @@ Brand color in json format
   {
     "colorList": [
       "#8892be",
-      "#8892be",
       "#4f5b93",
       "#99cc99"
     ],
@@ -3984,28 +3558,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#5dbe57",
       "#5dbe57"
     ],
     "name": "Pikabu"
   },
   {
     "colorList": [
-      "#0000e6",
       "#0000e6"
     ],
     "name": "Pinboard"
   },
   {
     "colorList": [
-      "#e60023",
       "#e60023"
     ],
     "name": "Pinterest"
   },
   {
     "colorList": [
-      "#ee3124",
       "#ee3124",
       "#00a160",
       "#ffc425"
@@ -4015,7 +3585,6 @@ Brand color in json format
   {
     "colorList": [
       "#6585ed",
-      "#6585ed",
       "#f5756c",
       "#98afc0",
       "#2f3148"
@@ -4024,21 +3593,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#414f5a",
       "#414f5a"
     ],
     "name": "Plaxo"
   },
   {
     "colorList": [
-      "#003087",
       "#003087"
     ],
     "name": "Playstation"
   },
   {
     "colorList": [
-      "#e5a00d",
       "#e5a00d",
       "#282a2d"
     ],
@@ -4047,21 +3613,18 @@ Brand color in json format
   {
     "colorList": [
       "#ef4056",
-      "#ef4056",
       "#50bcb6"
     ],
     "name": "Pocket"
   },
   {
     "colorList": [
-      "#d52b1e",
       "#d52b1e"
     ],
     "name": "Poczta Polska"
   },
   {
     "colorList": [
-      "#00a3e2",
       "#00a3e2",
       "#1ba548",
       "#fdc800",
@@ -4073,7 +3636,6 @@ Brand color in json format
   {
     "colorList": [
       "#0099ff",
-      "#0099ff",
       "#fb0a2a",
       "#17ad49",
       "#333333"
@@ -4082,7 +3644,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ef5b25",
       "#ef5b25"
     ],
     "name": "Postman"
@@ -4090,14 +3651,12 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#36454f"
     ],
     "name": "Postmates"
   },
   {
     "colorList": [
-      "#df0067",
       "#df0067",
       "#251b5b",
       "#25b9d7",
@@ -4109,14 +3668,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#318bff",
       "#318bff"
     ],
     "name": "Prezi"
   },
   {
     "colorList": [
-      "#1885bf",
       "#1885bf"
     ],
     "name": "Priceline"
@@ -4124,14 +3681,12 @@ Brand color in json format
   {
     "colorList": [
       "#ee7f2d",
-      "#ee7f2d",
       "#000000"
     ],
     "name": "Princeton University"
   },
   {
     "colorList": [
-      "#da552f",
       "#da552f",
       "#534540",
       "#988f8c",
@@ -4142,14 +3697,12 @@ Brand color in json format
   {
     "colorList": [
       "#505264",
-      "#505264",
       "#8a90c7"
     ],
     "name": "Protonmail"
   },
   {
     "colorList": [
-      "#000000",
       "#000000",
       "#44403f",
       "#696965",
@@ -4161,7 +3714,6 @@ Brand color in json format
   {
     "colorList": [
       "#c28e0e",
-      "#c28e0e",
       "#98700d",
       "#000000"
     ],
@@ -4170,7 +3722,6 @@ Brand color in json format
   {
     "colorList": [
       "#ffde57",
-      "#ffde57",
       "#4584b6",
       "#646464"
     ],
@@ -4178,14 +3729,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e0001b",
       "#e0001b"
     ],
     "name": "Qantas Airlines"
   },
   {
     "colorList": [
-      "#6b5aed",
       "#6b5aed",
       "#262a3e",
       "#fafafc",
@@ -4195,14 +3744,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e10019",
       "#e10019"
     ],
     "name": "Qualtrics"
   },
   {
     "colorList": [
-      "#4257b2",
       "#4257b2",
       "#3ccfcf",
       "#f0f0f0"
@@ -4211,21 +3758,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff5454",
       "#ff5454"
     ],
     "name": "Quizup"
   },
   {
     "colorList": [
-      "#a82400",
       "#a82400"
     ],
     "name": "Quora"
   },
   {
     "colorList": [
-      "#66ceff",
       "#66ceff"
     ],
     "name": "Quote Fm"
@@ -4233,21 +3777,18 @@ Brand color in json format
   {
     "colorList": [
       "#c7053d",
-      "#c7053d",
       "#8cc04b"
     ],
     "name": "Raspberry Pi"
   },
   {
     "colorList": [
-      "#00ff00",
       "#00ff00"
     ],
     "name": "Razer"
   },
   {
     "colorList": [
-      "#007dc3",
       "#007dc3"
     ],
     "name": "Rdio"
@@ -4255,21 +3796,18 @@ Brand color in json format
   {
     "colorList": [
       "#e11b22",
-      "#e11b22",
       "#0054a4"
     ],
     "name": "Remax"
   },
   {
     "colorList": [
-      "#00d8ff",
       "#00d8ff"
     ],
     "name": "React"
   },
   {
     "colorList": [
-      "#990000",
       "#990000"
     ],
     "name": "Readability"
@@ -4277,21 +3815,18 @@ Brand color in json format
   {
     "colorList": [
       "#f29023",
-      "#f29023",
       "#4d5255"
     ],
     "name": "Realex Payments"
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000"
     ],
     "name": "Red Hat"
   },
   {
     "colorList": [
-      "#ff4500",
       "#ff4500",
       "#5f99cf",
       "#cee3f8"
@@ -4300,14 +3835,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#a02021",
       "#a02021"
     ],
     "name": "Redfin"
   },
   {
     "colorList": [
-      "#0a2239",
       "#0a2239",
       "#01b287",
       "#ff9f1c",
@@ -4319,7 +3852,6 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#999999",
       "#f58021"
     ],
@@ -4327,14 +3859,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ed1c27",
       "#ed1c27"
     ],
     "name": "Rentler"
   },
   {
     "colorList": [
-      "#b32317",
       "#b32317",
       "#f58025",
       "#3a6e8f",
@@ -4346,14 +3876,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e43526",
       "#e43526"
     ],
     "name": "Reverbnation"
   },
   {
     "colorList": [
-      "#f36e21",
       "#f36e21",
       "#513127"
     ],
@@ -4362,7 +3890,6 @@ Brand color in json format
   {
     "colorList": [
       "#f76902",
-      "#f76902",
       "#ffffff",
       "#000000"
     ],
@@ -4370,21 +3897,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0ba6ab",
       "#0ba6ab"
     ],
     "name": "Rockpack"
   },
   {
     "colorList": [
-      "#6f1ab1",
       "#6f1ab1"
     ],
     "name": "Roku"
   },
   {
     "colorList": [
-      "#680021",
       "#680021",
       "#fffaec",
       "#939598",
@@ -4395,7 +3919,6 @@ Brand color in json format
   {
     "colorList": [
       "#e22027",
-      "#e22027",
       "#a1cd3d",
       "#003e70"
     ],
@@ -4403,7 +3926,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#62b0d9",
       "#62b0d9"
     ],
     "name": "Roon"
@@ -4411,14 +3933,12 @@ Brand color in json format
   {
     "colorList": [
       "#0098db",
-      "#0098db",
       "#ecc400"
     ],
     "name": "Rosetta Stone"
   },
   {
     "colorList": [
-      "#fdd800",
       "#fdd800"
     ],
     "name": "Rounds"
@@ -4426,14 +3946,12 @@ Brand color in json format
   {
     "colorList": [
       "#3f1a0a",
-      "#3f1a0a",
       "#edd51c"
     ],
     "name": "Rowan University"
   },
   {
     "colorList": [
-      "#1b5692",
       "#1b5692",
       "#c32128",
       "#43a756",
@@ -4448,7 +3966,6 @@ Brand color in json format
   {
     "colorList": [
       "#ff0000",
-      "#ff0000",
       "#ffff00",
       "#000000"
     ],
@@ -4462,34 +3979,24 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f26522"
-    ],
-    "name": "Rss 2"
-  },
-  {
-    "colorList": [
-      "#cc342d",
       "#cc342d"
     ],
     "name": "Ruby"
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000"
     ],
     "name": "Ruby On Rails"
   },
   {
     "colorList": [
-      "#cc0033",
       "#cc0033"
     ],
     "name": "Rutgers University"
   },
   {
     "colorList": [
-      "#073590",
       "#073590",
       "#f1c933",
       "#2091eb"
@@ -4499,21 +4006,18 @@ Brand color in json format
   {
     "colorList": [
       "#e50000",
-      "#e50000",
       "#111111"
     ],
     "name": "Sabre"
   },
   {
     "colorList": [
-      "#00dc06",
       "#00dc06"
     ],
     "name": "Sage"
   },
   {
     "colorList": [
-      "#ec8a00",
       "#ec8a00"
     ],
     "name": "Sainsburys"
@@ -4521,14 +4025,12 @@ Brand color in json format
   {
     "colorList": [
       "#1798c1",
-      "#1798c1",
       "#ff1100"
     ],
     "name": "Salesforce"
   },
   {
     "colorList": [
-      "#1428a0",
       "#1428a0",
       "#75787b",
       "#0689d8",
@@ -4547,7 +4049,6 @@ Brand color in json format
   {
     "colorList": [
       "#e91e22",
-      "#e91e22",
       "#c8aa76",
       "#000000"
     ],
@@ -4556,7 +4057,6 @@ Brand color in json format
   {
     "colorList": [
       "#fd5a1e",
-      "#fd5a1e",
       "#000000"
     ],
     "name": "San Francisco Giants"
@@ -4564,14 +4064,12 @@ Brand color in json format
   {
     "colorList": [
       "#003366",
-      "#003366",
       "#999999"
     ],
     "name": "Sap"
   },
   {
     "colorList": [
-      "#4d2177",
       "#4d2177",
       "#84a40b",
       "#004851",
@@ -4591,7 +4089,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#1a7bba",
       "#1a7bba"
     ],
     "name": "Scribd"
@@ -4599,21 +4096,18 @@ Brand color in json format
   {
     "colorList": [
       "#1f4fa3",
-      "#1f4fa3",
       "#f14728"
     ],
     "name": "Septa"
   },
   {
     "colorList": [
-      "#004488",
       "#004488"
     ],
     "name": "Seton Hall University"
   },
   {
     "colorList": [
-      "#0088ff",
       "#0088ff",
       "#ffaa00",
       "#ff7700",
@@ -4632,14 +4126,12 @@ Brand color in json format
   {
     "colorList": [
       "#0168b3",
-      "#0168b3",
       "#ee3e34"
     ],
     "name": "Sherwin Williams"
   },
   {
     "colorList": [
-      "#96bf48",
       "#96bf48",
       "#479ccf",
       "#2d3538",
@@ -4651,14 +4143,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f01f74",
       "#f01f74"
     ],
     "name": "Shopmium"
   },
   {
     "colorList": [
-      "#009999",
       "#009999"
     ],
     "name": "Siemens"
@@ -4666,35 +4156,30 @@ Brand color in json format
   {
     "colorList": [
       "#f26b21",
-      "#f26b21",
       "#68b8be"
     ],
     "name": "Skillshare"
   },
   {
     "colorList": [
-      "#00800d",
       "#00800d"
     ],
     "name": "Skoda"
   },
   {
     "colorList": [
-      "#00aff0",
       "#00aff0"
     ],
     "name": "Skype"
   },
   {
     "colorList": [
-      "#00338d",
       "#00338d"
     ],
     "name": "Skywest"
   },
   {
     "colorList": [
-      "#6ecadc",
       "#6ecadc",
       "#e9a820",
       "#e01563",
@@ -4704,14 +4189,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0077b5",
       "#0077b5"
     ],
     "name": "Slideshare"
   },
   {
     "colorList": [
-      "#7c9cb0",
       "#7c9cb0"
     ],
     "name": "Slipcase"
@@ -4719,21 +4202,18 @@ Brand color in json format
   {
     "colorList": [
       "#e53b2c",
-      "#e53b2c",
       "#41b7d8"
     ],
     "name": "Smashing Magazine"
   },
   {
     "colorList": [
-      "#f36f21",
       "#f36f21"
     ],
     "name": "Snagajob"
   },
   {
     "colorList": [
-      "#fffc00",
       "#fffc00"
     ],
     "name": "Snapchat"
@@ -4741,14 +4221,12 @@ Brand color in json format
   {
     "colorList": [
       "#6cb33f",
-      "#6cb33f",
       "#4a494d"
     ],
     "name": "Soapui"
   },
   {
     "colorList": [
-      "#29c4d0",
       "#29c4d0",
       "#f29556",
       "#84afa2",
@@ -4760,14 +4238,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#008ace",
       "#008ace"
     ],
     "name": "Softonic"
   },
   {
     "colorList": [
-      "#f80046",
       "#f80046"
     ],
     "name": "Songkick"
@@ -4775,14 +4251,12 @@ Brand color in json format
   {
     "colorList": [
       "#ff6600",
-      "#ff6600",
       "#0c88b1"
     ],
     "name": "Sonicbids"
   },
   {
     "colorList": [
-      "#d8a158",
       "#d8a158",
       "#ba4724",
       "#1c5f4a",
@@ -4792,7 +4266,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#000000",
       "#000000",
       "#7c8285",
       "#bfbdb0",
@@ -4819,7 +4292,6 @@ Brand color in json format
   {
     "colorList": [
       "#fedf00",
-      "#fedf00",
       "#1e1e1e",
       "#a7a8aa"
     ],
@@ -4828,14 +4300,12 @@ Brand color in json format
   {
     "colorList": [
       "#ff8800",
-      "#ff8800",
       "#ff3300"
     ],
     "name": "Soundcloud"
   },
   {
     "colorList": [
-      "#fc00c1",
       "#fc00c1",
       "#000000"
     ],
@@ -4844,21 +4314,18 @@ Brand color in json format
   {
     "colorList": [
       "#1db954",
-      "#1db954",
       "#191414"
     ],
     "name": "Spotify"
   },
   {
     "colorList": [
-      "#ffe100",
       "#ffe100"
     ],
     "name": "Sprint"
   },
   {
     "colorList": [
-      "#75dd66",
       "#75dd66",
       "#59cb59",
       "#2bb656",
@@ -4870,21 +4337,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#28c101",
       "#28c101"
     ],
     "name": "Square Cash"
   },
   {
     "colorList": [
-      "#222222",
       "#222222"
     ],
     "name": "Squarespace"
   },
   {
     "colorList": [
-      "#1e5397",
       "#1e5397",
       "#376db6",
       "#4ca2da",
@@ -4895,7 +4359,6 @@ Brand color in json format
   {
     "colorList": [
       "#f48024",
-      "#f48024",
       "#222426",
       "#bcbbbb"
     ],
@@ -4904,7 +4367,6 @@ Brand color in json format
   {
     "colorList": [
       "#cc0000",
-      "#cc0000",
       "#2c8aec",
       "#ffcc00"
     ],
@@ -4912,21 +4374,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00704a",
       "#00704a"
     ],
     "name": "Starbucks"
   },
   {
     "colorList": [
-      "#e1261c",
       "#e1261c"
     ],
     "name": "State Farm"
   },
   {
     "colorList": [
-      "#d7584f",
       "#d7584f"
     ],
     "name": "Status Chart"
@@ -4934,14 +4393,12 @@ Brand color in json format
   {
     "colorList": [
       "#00adee",
-      "#00adee",
       "#000000"
     ],
     "name": "Steam"
   },
   {
     "colorList": [
-      "#3b5a6f",
       "#3b5a6f",
       "#828a87",
       "#000000",
@@ -4955,7 +4412,6 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#79bde9",
       "#ffc423",
       "#bc9b6a",
@@ -4966,7 +4422,6 @@ Brand color in json format
   {
     "colorList": [
       "#f97200",
-      "#f97200",
       "#010101",
       "#8b8b64",
       "#bbbdc0"
@@ -4975,21 +4430,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#fc4c02",
       "#fc4c02"
     ],
     "name": "Strava"
   },
   {
     "colorList": [
-      "#0f90fa",
       "#0f90fa"
     ],
     "name": "Streamable"
   },
   {
     "colorList": [
-      "#00afe1",
       "#00afe1"
     ],
     "name": "Stripe"
@@ -4997,28 +4449,24 @@ Brand color in json format
   {
     "colorList": [
       "#004b91",
-      "#004b91",
       "#ff7300"
     ],
     "name": "Stubhub"
   },
   {
     "colorList": [
-      "#00afe1",
       "#00afe1"
     ],
     "name": "Studyblue"
   },
   {
     "colorList": [
-      "#eb4924",
       "#eb4924"
     ],
     "name": "Stumbleupon"
   },
   {
     "colorList": [
-      "#489e3b",
       "#489e3b",
       "#fabd42",
       "#cd0a20"
@@ -5027,7 +4475,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#e61718",
       "#e61718",
       "#e8e9ea",
       "#595a5c",
@@ -5038,7 +4485,6 @@ Brand color in json format
   {
     "colorList": [
       "#00447c",
-      "#00447c",
       "#fdb913",
       "#e36f1e"
     ],
@@ -5047,7 +4493,6 @@ Brand color in json format
   {
     "colorList": [
       "#4285f4",
-      "#4285f4",
       "#ffcd1a"
     ],
     "name": "Supershuttle"
@@ -5055,28 +4500,24 @@ Brand color in json format
   {
     "colorList": [
       "#f06d1f",
-      "#f06d1f",
       "#ffa633"
     ],
     "name": "Swarm"
   },
   {
     "colorList": [
-      "#e20074",
       "#e20074"
     ],
     "name": "T Mobile"
   },
   {
     "colorList": [
-      "#e74635",
       "#e74635"
     ],
     "name": "Tagstr"
   },
   {
     "colorList": [
-      "#444444",
       "#444444",
       "#b8b8b8",
       "#72a114",
@@ -5087,14 +4528,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000"
     ],
     "name": "Target"
   },
   {
     "colorList": [
-      "#2580c3",
       "#2580c3",
       "#1c2537",
       "#e0e0e0",
@@ -5104,21 +4543,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#339900",
       "#339900"
     ],
     "name": "Technorati"
   },
   {
     "colorList": [
-      "#e62b1e",
       "#e62b1e"
     ],
     "name": "Ted"
   },
   {
     "colorList": [
-      "#0088cc",
       "#0088cc"
     ],
     "name": "Telegram"
@@ -5126,14 +4562,12 @@ Brand color in json format
   {
     "colorList": [
       "#e92c4c",
-      "#e92c4c",
       "#c82641"
     ],
     "name": "Tvtag"
   },
   {
     "colorList": [
-      "#a41e35",
       "#a41e35",
       "#222222",
       "#899197"
@@ -5143,21 +4577,18 @@ Brand color in json format
   {
     "colorList": [
       "#ee1c2e",
-      "#ee1c2e",
       "#00539f"
     ],
     "name": "Tesco"
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000"
     ],
     "name": "Tesla"
   },
   {
     "colorList": [
-      "#500000",
       "#500000",
       "#003c71",
       "#5b6236",
@@ -5172,14 +4603,12 @@ Brand color in json format
   {
     "colorList": [
       "#cc0000",
-      "#cc0000",
       "#000000"
     ],
     "name": "Texas Tech University"
   },
   {
     "colorList": [
-      "#ee8421",
       "#ee8421",
       "#8c8a8a",
       "#222222"
@@ -5189,14 +4618,12 @@ Brand color in json format
   {
     "colorList": [
       "#293f6f",
-      "#293f6f",
       "#a67a00"
     ],
     "name": "The College Of New Jersey"
   },
   {
     "colorList": [
-      "#ff3c1f",
       "#ff3c1f",
       "#26313b",
       "#4e5860",
@@ -5209,7 +4636,6 @@ Brand color in json format
   {
     "colorList": [
       "#006b95",
-      "#006b95",
       "#4f5b65",
       "#b3812a",
       "#a01a1f"
@@ -5219,14 +4645,12 @@ Brand color in json format
   {
     "colorList": [
       "#ed1c24",
-      "#ed1c24",
       "#b90c13"
     ],
     "name": "The Sun"
   },
   {
     "colorList": [
-      "#00745e",
       "#00745e",
       "#086556"
     ],
@@ -5235,21 +4659,18 @@ Brand color in json format
   {
     "colorList": [
       "#8560a8",
-      "#8560a8",
       "#431c69"
     ],
     "name": "The Sun Perks"
   },
   {
     "colorList": [
-      "#000000",
       "#000000"
     ],
     "name": "The Times"
   },
   {
     "colorList": [
-      "#ff8000",
       "#ff8000",
       "#555555",
       "#444444",
@@ -5263,7 +4684,6 @@ Brand color in json format
   {
     "colorList": [
       "#da3d34",
-      "#da3d34",
       "#00a480",
       "#ed9f40",
       "#6a76ac",
@@ -5275,14 +4695,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#66bd00",
       "#66bd00"
     ],
     "name": "Totaljobs"
   },
   {
     "colorList": [
-      "#eb0a1e",
       "#eb0a1e",
       "#ffffff",
       "#000000",
@@ -5293,14 +4711,12 @@ Brand color in json format
   {
     "colorList": [
       "#6fbc6d",
-      "#6fbc6d",
       "#47535b"
     ],
     "name": "Treehouse"
   },
   {
     "colorList": [
-      "#0079bf",
       "#0079bf",
       "#70b500",
       "#ff9f1a",
@@ -5316,21 +4732,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00af87",
       "#00af87"
     ],
     "name": "Tripadvisor"
   },
   {
     "colorList": [
-      "#5eab1f",
       "#5eab1f"
     ],
     "name": "Trulia"
   },
   {
     "colorList": [
-      "#e12729",
       "#e12729",
       "#f37324",
       "#f8cc1b",
@@ -5342,14 +4755,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#35465c",
       "#35465c"
     ],
     "name": "Tumblr"
   },
   {
     "colorList": [
-      "#c30f24",
       "#c30f24"
     ],
     "name": "Tunngle"
@@ -5357,14 +4768,12 @@ Brand color in json format
   {
     "colorList": [
       "#355ebe",
-      "#355ebe",
       "#d52b1d"
     ],
     "name": "Turbotax"
   },
   {
     "colorList": [
-      "#1ec95b",
       "#1ec95b",
       "#043623",
       "#eff5f0"
@@ -5374,7 +4783,6 @@ Brand color in json format
   {
     "colorList": [
       "#9146ff",
-      "#9146ff",
       "#000000",
       "#f0f0ff"
     ],
@@ -5382,7 +4790,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#1da1f2",
       "#1da1f2",
       "#14171a",
       "#657786",
@@ -5394,14 +4801,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#98ce1e",
       "#98ce1e"
     ],
     "name": "Typekit"
   },
   {
     "colorList": [
-      "#d2de61",
       "#d2de61"
     ],
     "name": "Typepad"
@@ -5409,21 +4814,18 @@ Brand color in json format
   {
     "colorList": [
       "#3178c6",
-      "#3178c6",
       "#00273f"
     ],
     "name": "Typescript"
   },
   {
     "colorList": [
-      "#ff8700",
       "#ff8700"
     ],
     "name": "Typo3"
   },
   {
     "colorList": [
-      "#09091a",
       "#09091a",
       "#c0c0c8",
       "#1fbad6"
@@ -5432,7 +4834,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#dd4814",
       "#dd4814",
       "#77216f",
       "#5e2750",
@@ -5445,7 +4846,6 @@ Brand color in json format
   {
     "colorList": [
       "#003262",
-      "#003262",
       "#3b7ea1",
       "#fdb515",
       "#c4820e"
@@ -5454,7 +4854,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#052049",
       "#052049",
       "#18a3ac",
       "#90bd31",
@@ -5465,7 +4864,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#10167f",
       "#10167f",
       "#fe230a",
       "#ff9600",
@@ -5485,7 +4883,6 @@ Brand color in json format
   {
     "colorList": [
       "#222c37",
-      "#222c37",
       "#00cccc",
       "#fff600",
       "#ff0066",
@@ -5498,7 +4895,6 @@ Brand color in json format
   {
     "colorList": [
       "#e2001a",
-      "#e2001a",
       "#009cd1",
       "#3b515b"
     ],
@@ -5506,7 +4902,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#46166b",
       "#46166b",
       "#eeb211",
       "#006c68",
@@ -5516,7 +4911,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#005bbb",
       "#005bbb",
       "#e56a54",
       "#ffc72c",
@@ -5536,7 +4930,6 @@ Brand color in json format
   {
     "colorList": [
       "#007c41",
-      "#007c41",
       "#ffdb05"
     ],
     "name": "University Of Alberta"
@@ -5544,14 +4937,12 @@ Brand color in json format
   {
     "colorList": [
       "#cc0033",
-      "#cc0033",
       "#003366"
     ],
     "name": "University Of Arizona"
   },
   {
     "colorList": [
-      "#d6083b",
       "#d6083b",
       "#0072cf",
       "#ea7125",
@@ -5564,14 +4955,12 @@ Brand color in json format
   {
     "colorList": [
       "#e00122",
-      "#e00122",
       "#000000"
     ],
     "name": "University Of Cincinnati"
   },
   {
     "colorList": [
-      "#ce1141",
       "#ce1141",
       "#004b8d",
       "#000000",
@@ -5588,7 +4977,6 @@ Brand color in json format
   {
     "colorList": [
       "#fa4616",
-      "#fa4616",
       "#0021a5"
     ],
     "name": "University Of Florida"
@@ -5596,14 +4984,12 @@ Brand color in json format
   {
     "colorList": [
       "#131f33",
-      "#131f33",
       "#fa6300"
     ],
     "name": "University Of Illinois Urbana Champaign"
   },
   {
     "colorList": [
-      "#005daa",
       "#005daa"
     ],
     "name": "University Of Kentucky"
@@ -5611,14 +4997,12 @@ Brand color in json format
   {
     "colorList": [
       "#00274c",
-      "#00274c",
       "#ffcb05"
     ],
     "name": "University Of Michigan"
   },
   {
     "colorList": [
-      "#4b9cd3",
       "#4b9cd3",
       "#007fae",
       "#13294b",
@@ -5631,7 +5015,6 @@ Brand color in json format
   {
     "colorList": [
       "#154733",
-      "#154733",
       "#fee123"
     ],
     "name": "University Of Oregon"
@@ -5639,14 +5022,12 @@ Brand color in json format
   {
     "colorList": [
       "#ffd100",
-      "#ffd100",
       "#003b71"
     ],
     "name": "University Of Rochester"
   },
   {
     "colorList": [
-      "#bf5700",
       "#bf5700",
       "#333f48",
       "#005f86",
@@ -5660,7 +5041,6 @@ Brand color in json format
   {
     "colorList": [
       "#005493",
-      "#005493",
       "#f5aa1c",
       "#c63527",
       "#002754"
@@ -5670,7 +5050,6 @@ Brand color in json format
   {
     "colorList": [
       "#4b2e83",
-      "#4b2e83",
       "#b7a57a",
       "#85754d"
     ],
@@ -5679,14 +5058,12 @@ Brand color in json format
   {
     "colorList": [
       "#ffd54f",
-      "#ffd54f",
       "#000"
     ],
     "name": "University Of Waterloo"
   },
   {
     "colorList": [
-      "#ffbd00",
       "#ffbd00",
       "#000000",
       "#98c646",
@@ -5700,14 +5077,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#c822b0",
       "#c822b0"
     ],
     "name": "Univision"
   },
   {
     "colorList": [
-      "#351c15",
       "#351c15",
       "#ffb500",
       "#64a70b"
@@ -5717,7 +5092,6 @@ Brand color in json format
   {
     "colorList": [
       "#333366",
-      "#333366",
       "#e71921",
       "#218748"
     ],
@@ -5725,14 +5099,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#3388ff",
       "#3388ff"
     ],
     "name": "Ustream"
   },
   {
     "colorList": [
-      "#ff0000",
       "#ff0000",
       "#f2f2f2",
       "#3285dc"
@@ -5741,14 +5113,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f07355",
       "#f07355"
     ],
     "name": "Viadeo"
   },
   {
     "colorList": [
-      "#59267c",
       "#59267c",
       "#8f5db7",
       "#e2d4e7",
@@ -5759,7 +5129,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#f82a53",
       "#f82a53",
       "#111111",
       "#f5f5f5",
@@ -5772,7 +5141,6 @@ Brand color in json format
   {
     "colorList": [
       "#3c9cd7",
-      "#3c9cd7",
       "#d24663"
     ],
     "name": "Viki"
@@ -5780,21 +5148,18 @@ Brand color in json format
   {
     "colorList": [
       "#162221",
-      "#162221",
       "#1ab7ea"
     ],
     "name": "Vimeo"
   },
   {
     "colorList": [
-      "#00b488",
       "#00b488"
     ],
     "name": "Vine"
   },
   {
     "colorList": [
-      "#1e91d0",
       "#1e91d0"
     ],
     "name": "Virb"
@@ -5802,14 +5167,12 @@ Brand color in json format
   {
     "colorList": [
       "#c3092d",
-      "#c3092d",
       "#222221"
     ],
     "name": "Virgin Media"
   },
   {
     "colorList": [
-      "#cc0000",
       "#cc0000",
       "#333333",
       "#a93c3b",
@@ -5822,21 +5185,18 @@ Brand color in json format
   {
     "colorList": [
       "#1a1f71",
-      "#1a1f71",
       "#f7b600"
     ],
     "name": "Visa"
   },
   {
     "colorList": [
-      "#31577a",
       "#31577a"
     ],
     "name": "Visualcv"
   },
   {
     "colorList": [
-      "#14acf2",
       "#14acf2",
       "#f04494",
       "#0ac578"
@@ -5845,14 +5205,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#45668e",
       "#45668e"
     ],
     "name": "Vkontakte"
   },
   {
     "colorList": [
-      "#e60000",
       "#e60000",
       "#4a4d4e",
       "#9c2aa0",
@@ -5869,7 +5227,6 @@ Brand color in json format
   {
     "colorList": [
       "#003057",
-      "#003057",
       "#115740",
       "#65665c",
       "#425563",
@@ -5881,14 +5238,12 @@ Brand color in json format
   {
     "colorList": [
       "#42b883",
-      "#42b883",
       "#35495e"
     ],
     "name": "Vue Js"
   },
   {
     "colorList": [
-      "#9e7e38",
       "#9e7e38",
       "#000000",
       "#82231c",
@@ -5905,7 +5260,6 @@ Brand color in json format
   {
     "colorList": [
       "#e31837",
-      "#e31837",
       "#f37520",
       "#489cd4",
       "#2774a6",
@@ -5915,7 +5269,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#007dc6",
       "#007dc6",
       "#79b9e7",
       "#f47421",
@@ -5931,14 +5284,12 @@ Brand color in json format
   {
     "colorList": [
       "#414b56",
-      "#414b56",
       "#00a2e1"
     ],
     "name": "Warby Parker"
   },
   {
     "colorList": [
-      "#1c2d37",
       "#1c2d37",
       "#4ec7c4",
       "#00959f",
@@ -5948,14 +5299,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#eea642",
       "#eea642"
     ],
     "name": "Webzunder"
   },
   {
     "colorList": [
-      "#7bb32e",
       "#7bb32e"
     ],
     "name": "Wechat"
@@ -5963,14 +5312,12 @@ Brand color in json format
   {
     "colorList": [
       "#e2203d",
-      "#e2203d",
       "#199fda"
     ],
     "name": "Wendys"
   },
   {
     "colorList": [
-      "#005195",
       "#005195",
       "#028948",
       "#ffd400",
@@ -5983,7 +5330,6 @@ Brand color in json format
   {
     "colorList": [
       "#075e54",
-      "#075e54",
       "#128c7e",
       "#25d366",
       "#dcf8c6",
@@ -5994,7 +5340,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#4aae20",
       "#4aae20",
       "#6cc751",
       "#225f1e",
@@ -6013,14 +5358,12 @@ Brand color in json format
   {
     "colorList": [
       "#2fa5d6",
-      "#2fa5d6",
       "#b52f2c"
     ],
     "name": "Whoosnap Designer"
   },
   {
     "colorList": [
-      "#339966",
       "#339966",
       "#0063bf",
       "#990000"
@@ -6030,7 +5373,6 @@ Brand color in json format
   {
     "colorList": [
       "#000000",
-      "#000000",
       "#636466",
       "#939598",
       "#c7c8ca"
@@ -6039,7 +5381,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0078d7",
       "#0078d7",
       "#002050",
       "#ffb900",
@@ -6054,14 +5395,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#68217a",
       "#68217a"
     ],
     "name": "Windows Phone"
   },
   {
     "colorList": [
-      "#96588a",
       "#96588a",
       "#3c3c3c",
       "#71b02f"
@@ -6070,14 +5409,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#5b009c",
       "#5b009c"
     ],
     "name": "Wooga"
   },
   {
     "colorList": [
-      "#21759b",
       "#21759b",
       "#d54e21",
       "#464646"
@@ -6086,7 +5423,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0087be",
       "#0087be",
       "#78dcfa",
       "#00aadc",
@@ -6111,7 +5447,6 @@ Brand color in json format
   {
     "colorList": [
       "#622599",
-      "#622599",
       "#0054a0",
       "#aaba0a",
       "#dd7500",
@@ -6126,14 +5461,12 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#0066a1",
       "#0066a1"
     ],
     "name": "Worldline"
   },
   {
     "colorList": [
-      "#e66760",
       "#e66760",
       "#8c88cd",
       "#69c5e4",
@@ -6144,21 +5477,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#2b96f1",
       "#2b96f1"
     ],
     "name": "Wunderlist"
   },
   {
     "colorList": [
-      "#d7182a",
       "#d7182a"
     ],
     "name": "Wwe"
   },
   {
     "colorList": [
-      "#0c2340",
       "#0c2340",
       "#9ea2a2",
       "#0099cc"
@@ -6167,21 +5497,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#52b043",
       "#52b043"
     ],
     "name": "Xbox"
   },
   {
     "colorList": [
-      "#f59714",
       "#f59714"
     ],
     "name": "Xda Developers"
   },
   {
     "colorList": [
-      "#06b3e8",
       "#06b3e8",
       "#000000",
       "#ffffff",
@@ -6191,7 +5518,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#6138f5",
       "#6138f5",
       "#1f69ff",
       "#008558",
@@ -6204,7 +5530,6 @@ Brand color in json format
   {
     "colorList": [
       "#026466",
-      "#026466",
       "#cfdc00"
     ],
     "name": "Xing"
@@ -6212,28 +5537,24 @@ Brand color in json format
   {
     "colorList": [
       "#3299cc",
-      "#3299cc",
       "#333333"
     ],
     "name": "Xy Gaming"
   },
   {
     "colorList": [
-      "#ff4000",
       "#ff4000"
     ],
     "name": "Y Combinator"
   },
   {
     "colorList": [
-      "#410093",
       "#410093"
     ],
     "name": "Yahoo"
   },
   {
     "colorList": [
-      "#ffcc00",
       "#ffcc00"
     ],
     "name": "Yandex"
@@ -6241,21 +5562,18 @@ Brand color in json format
   {
     "colorList": [
       "#ffd400",
-      "#ffd400",
       "#000000"
     ],
     "name": "Yellow Pages"
   },
   {
     "colorList": [
-      "#af0606",
       "#af0606"
     ],
     "name": "Yelp"
   },
   {
     "colorList": [
-      "#d8582b",
       "#d8582b",
       "#16a314",
       "#3b6fba"
@@ -6264,7 +5582,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#9b59b6",
       "#9b59b6",
       "#e74c3c",
       "#8e44ad",
@@ -6281,14 +5598,12 @@ Brand color in json format
   {
     "colorList": [
       "#ff0000",
-      "#ff0000",
       "#282828"
     ],
     "name": "Youtube"
   },
   {
     "colorList": [
-      "#e16120",
       "#e16120",
       "#3a9691",
       "#363533"
@@ -6297,7 +5612,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#ff4a00",
       "#ff4a00",
       "#fd7622",
       "#ffc43e",
@@ -6309,7 +5623,6 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#00363d",
       "#00363d",
       "#f79a3e",
       "#eb6651",
@@ -6323,21 +5636,18 @@ Brand color in json format
   },
   {
     "colorList": [
-      "#9dbc7a",
       "#9dbc7a"
     ],
     "name": "Zerply"
   },
   {
     "colorList": [
-      "#1277e1",
       "#1277e1"
     ],
     "name": "Zillow"
   },
   {
     "colorList": [
-      "#cb202d",
       "#cb202d",
       "#2d2d2d",
       "#f4f4f2"
@@ -6347,18 +5657,15 @@ Brand color in json format
   {
     "colorList": [
       "#2d8cff",
-      "#2d8cff",
       "#f26d21"
     ],
     "name": "Zoom"
   },
   {
     "colorList": [
-      "#ff9d3b",
       "#ff9d3b"
     ],
     "name": "Zopim"
   }
 ]
-
 ```
