@@ -163,7 +163,7 @@ Brand colors in json format
     "colorList": [
       "#0c3866",
       "#49c0b6",
-      "#222",
+      "#222222",
       "#ce181e",
       "#007cc0",
       "#ffc20e"
@@ -539,7 +539,7 @@ Brand colors in json format
       "#003580",
       "#009fe3",
       "#feba02",
-      "#666",
+      "#666666",
       "#f2f6fa"
     ],
     "name": "Booking Com"
@@ -1881,7 +1881,7 @@ Brand colors in json format
       "#6e5494",
       "#fafafa",
       "#f5f5f5",
-      "#333"
+      "#333333"
     ],
     "name": "Github"
   },
@@ -3405,7 +3405,7 @@ Brand colors in json format
       "#171717",
       "#cccccc",
       "#ffffff",
-      "#d34037efcbaddee"
+      "#d34037"
     ],
     "name": "Overwolf"
   },
@@ -5058,7 +5058,7 @@ Brand colors in json format
   {
     "colorList": [
       "#ffd54f",
-      "#000"
+      "#000000"
     ],
     "name": "University Of Waterloo"
   },
